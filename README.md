@@ -30,7 +30,10 @@ The HR Analytics Dashboard is an interactive Power BI project designed to analyz
 - **Multiple Dashboard Pages:** Navigate between Home Page, Training, Zone Information, Employee, and Employee Information.
 
 ## 📸 Dashboard Screenshots
-Add your uploaded dashboard screenshots here.
+## 📸 HR Overview
+
+![HR Overview Dashboard](https://raw.githubusercontent.com/sanketkenjale0027/HR-Analytics-Dashboard-Powerbi/main/snapshot%20of%20the%20HR%20Overview.png)
+
 
 ## 💡 Key Skills Demonstrated
 - Data Cleaning and Transformation

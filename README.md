@@ -35,6 +35,8 @@ The HR Analytics Dashboard is an interactive Power BI project designed to analyz
 ![HR Overview Dashboard](https://raw.githubusercontent.com/sanketkenjale0027/HR-Analytics-Dashboard-Powerbi/main/snapshot%20of%20the%20HR%20Overview.png)
 
 
+![Training Analysis Dashboard](https://github.com/sanketkenjale0027/HR-Analytics-Dashboard-Powerbi/blob/main/snapshot%20of%20the%20Training%20Analysis.png)
+
 ## 💡 Key Skills Demonstrated
 - Data Cleaning and Transformation
 - Data Modeling

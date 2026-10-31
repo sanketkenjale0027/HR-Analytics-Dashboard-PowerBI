@@ -59,4 +59,14 @@ The HR Analytics Dashboard is an interactive Power BI project designed to analyz
 This project demonstrates how Power BI can transform HR data into interactive visual insights, helping users monitor workforce metrics, evaluate training effectiveness, and support data-driven HR decisions.
 
 ## 👨‍💻 Author
+
 Sanket Kenjale
+
+B.Sc. IT Graduate | Data Analyst
+
+Skills: Power BI | SQL | Tableau | Python | Advanced Excel | Data Analysis
+
+Created as a Data Analytics project using Microsoft Power BI.
+
+If you find this project interesting, feel free to explore the repository!
+
